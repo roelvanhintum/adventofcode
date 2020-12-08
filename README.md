@@ -1,2 +1,2 @@
 # adventofcode
-Solutions for the advent of code.
+Solutions for the advent of code 2020.
